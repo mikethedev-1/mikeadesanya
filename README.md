@@ -3,6 +3,7 @@
 <p>I am a Frontend developer with experience using languages such as HTML,CSS,JavaScript,Bootstrap and React to build great websites and web applications</p>
 <hr>
 <h4>🧰 Toolbox</h4>
+<img src="html5-original.svg">
 
 <h3>Skills</h3>
 <b>🔹HTML</b>
