@@ -1,12 +1,8 @@
-<h3>👋 Hi, I’m @mikeadesanya</h3>
+<h3>👋 Hi, I’m Micheal</h3>
 
-<p>I am an aspiring frontend web developer, I love solving problems and like challenging myself..... 
-<b>Coding is my hobby 😁</b></p>
-<br>
-- 👀 I’m interested in front end development<br>
-- 🌱 I’m currently learning CSS<br>
-- 💞️ I’m looking to collaborate on web projects<br>
-- 📫 How to reach me <a href="https://wa.me/message/U7SDVCOKQIEFF1" target="_blank">WhatsApp</a>
+<p>I am a Frontend developer with experience using languages such as HTML,CSS,JavaScript,Bootstrap and React to build great websites and web applications</p>
+<hr>
+<h4>🧰 Toolbox</h4>
 
 <h3>Skills</h3>
 <b>🔹HTML</b>
