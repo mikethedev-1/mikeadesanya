@@ -3,7 +3,7 @@
 <p>I am a Frontend developer with experience using languages such as HTML,CSS,JavaScript,Bootstrap and React to build great websites and web applications</p>
 <hr>
 <h4>🧰 Toolbox</h4>
-<div style="display:flex;flex-direction:row;justify-content:space-around;align-items:center;">
+<div style="display:flex;flex-direction:row;justify-content:space-between;align-items:center;">
 <img src="html5-original.svg" width="50" height="50"/><img src="css3-original.svg" width="50" height="50"/><img src="javascript-original.svg" width="50" height="50"><img src="jquery-original.svg" width="50" height="50"> <img src="bootstrap-original.svg" width="50" height="50"> <img src="sass-original.svg" width="50" height="50">  <img src="git-original.svg" width="50" height="50"> <img src="react-original.svg" width="50" height="50">   
 </div>
 <br>
